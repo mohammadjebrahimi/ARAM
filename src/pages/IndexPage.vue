@@ -6,7 +6,7 @@
     <q-img class="login__image" src="/src/assets/Group_3552.svg" />
     <div class="flex column full-width login__form">
       <q-input mask="(####) ### - ####" filled bg-color="white" class="full-width " placeholder="(0915) 235 - 9821"
-        dense="true" />
+        dense=true />
 
       <q-btn class="full-width login__form-btn" label="ورود صاحب كار" />
     </div>
