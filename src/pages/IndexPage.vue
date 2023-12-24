@@ -1,7 +1,7 @@
 <template>
   <div class="flex column items-center login q-pa-xl">
     <div class="flex items-start full-width">
-      <q-icon name="arrow_back" />
+      <q-icon name="arrow_back"  size="2em" />
     </div>
     <q-img class="login__image" src="/src/assets/Group_3552.svg" />
     <div class="flex column full-width login__form">
