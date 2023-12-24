@@ -25,6 +25,7 @@
     &-btn {
       background-color: #da0037;
       color: white;
+      border-radius: 5px;
     }
   }
 
